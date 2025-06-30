@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Test images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.heic
+*.heif
+
+# Compressed output
+compressed/
+
+# Binary
+image-compressor
